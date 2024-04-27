@@ -5,6 +5,6 @@ export const student = [
     {id:4, name: 'Bahtiyor', status: 'DS'},
     {id:5, name: 'Sherzod', status: 'CE'},
     {id:6, name: 'Azizbek', status: 'CL'},
-    {id:7, name: 'Nodir', status: 'CM'},
+    {id:7, name: 'Murot', status: 'CM'},
 
 ]
